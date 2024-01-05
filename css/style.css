@@ -133,18 +133,18 @@ ul {
 }
 
 .row {
-    /* display: flex;
+    display: flex;
     flex-wrap: wrap;
     margin-left: -15px;
     margin-right: -15px;
-    position: relative; */
+    position: relative;
 
-    display: flex;
+    /* display: flex;
     margin-left: -15px;
     margin-right: -15px;
     position: relative;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: center; */
 
 }
 
